@@ -1,6 +1,6 @@
 # CIRCE
 
-This is the source code repository for the python routines employed to reduce de infrared raw data from the CIRCE camera at GTC.
+This is the source code repository for the python routines employed to reduce the infrared raw data from the CIRCE camera at GTC.
 
 This software was created by C. Cabello as part of her thesis work, developed under the supervision of N. Cardiel and J. Gallego, at the Departamento de Astrofísica y Física de la Tierra of the Universidad Complutense de Madrid.
 
