@@ -1,3 +1,16 @@
+#
+# Copyright 2019-2021 Universidad Complutense de Madrid
+#
+# This file software has been employed to reduce infrared 
+# raw data from the CIRCE camera at GTC
+#
+# Authors: Cristina Cabello (criscabe@ucm.es), 
+#          Nicolás Cardiel (cardiel@ucm.es)
+#          Jesús Gallego (j.gallego@ucm.es)
+#
+# SPDX-License-Identifier: GPL-3.0+
+# License-Filename: LICENSE.txt
+#
 from __future__ import division
 from __future__ import print_function
 
