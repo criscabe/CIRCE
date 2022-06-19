@@ -1,5 +1,5 @@
 #
-# Copyright 2019-2021 Universidad Complutense de Madrid
+# Copyright 2019-2022 Universidad Complutense de Madrid
 #
 # This file software has been employed to reduce infrared 
 # raw data from the CIRCE camera at GTC (see Cabello et al. 2022)
