@@ -7,6 +7,7 @@ This software was created by C. Cabello as part of her thesis work, developed un
 The program is first mentioned in Cabello et al. 2022 (see https://ui.adsabs.harvard.edu/abs/2022A%26A...659A.116C/abstract ) and Cabello, C. - PhD Thesis 2023.
 
 Maintainer: Cristina Cabello, criscabe@ucm.es
+
 Webpage (source): https://github.com/criscabe/CIRCE
 
 <br/><br/>
