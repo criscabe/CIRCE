@@ -14,5 +14,5 @@ Webpage (source): https://github.com/criscabe/CIRCE
 
 
 <p align="center">
-<img src="images/CIRCE_pic.png" width="90%">
+<img src="images/CIRCE_pic.png" width="93%">
 </p>
