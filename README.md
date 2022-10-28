@@ -8,3 +8,10 @@ The program is first mentioned in Cabello et al. 2022 (see https://ui.adsabs.har
 
 Maintainer: Cristina Cabello, criscabe@ucm.es
 Webpage (source): https://github.com/criscabe/CIRCE
+
+<br/><br/>
+
+
+<p align="center">
+<img src="images/CIRCE_pic.png" width="80%">
+</p>
