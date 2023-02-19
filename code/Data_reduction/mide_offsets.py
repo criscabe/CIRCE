@@ -244,3 +244,5 @@ if __name__ == "__main__":
     output_txt = re.sub('.txt$', '_refined.txt', args.input_offsets)
     np.savetxt(output_txt, list_offsets,
                fmt="%1d %s " + args.dark_name + " %6d %6d")
+    
+    
