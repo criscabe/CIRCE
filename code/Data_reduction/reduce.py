@@ -167,4 +167,3 @@ if __name__ == "__main__":
             outfile = infile[:-5] + "_coadd.fits"
             list_object_coadd.append(outfile)
             read_raw_circe(infile, nramps, outfile, debug=1)
-
