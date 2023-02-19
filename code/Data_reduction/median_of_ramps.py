@@ -206,3 +206,5 @@ if __name__ == "__main__":
             hdu = fits.PrimaryHDU(list_cube_split[k], main_header)
             hdu.writeto(outfile1, clobber=True)
         
+
+        
