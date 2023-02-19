@@ -69,3 +69,4 @@ if __name__ == "__main__":
         infile2 = infile1[:-5] + "_median_uc.fits"
         outfile = infile2[:-5] + "h.fits"
         read_raw_circe(infile1, infile2, outfile, debug=True)
+        
