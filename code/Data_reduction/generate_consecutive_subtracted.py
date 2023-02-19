@@ -94,3 +94,5 @@ if __name__ == "__main__":
     output_txt = re.sub('.txt$', '_cs.txt', args.input_list)
     np.savetxt(output_txt, filename_cs, fmt="%s") 
     print("\nExporting list with new files to:", output_txt)
+
+    
